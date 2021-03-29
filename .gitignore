@@ -4,3 +4,5 @@
 /lib/editor-vodka-l.js
 /lib/index.html
 /lib/index.js
+.DS_Store
+*/.DS_Store
