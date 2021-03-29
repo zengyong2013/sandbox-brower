@@ -1,0 +1,6 @@
+/.vscode/
+/node_modules/
+/lib/data.js
+/lib/editor-vodka-l.js
+/lib/index.html
+/lib/index.js

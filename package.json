@@ -1,0 +1,19 @@
+{
+  "name": "sandbox-brower",
+  "version": "1.0.6",
+  "description": "A nifty javascript sandbox for browser",
+  "main": "dist/sandbox.js",
+  "scripts": {
+    "build": "tsc",
+    "build:watch": "tsc --watch",
+    "test": "webpack --config lib/webpack.config.js"
+  },
+  "keywords": [
+    "sandbox",
+    "proxy",
+    "sandbox-brower",
+    "sandboxjs"
+  ],
+  "author": "zengyong",
+  "license": "ISC"
+}
