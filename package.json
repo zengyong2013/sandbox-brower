@@ -1,8 +1,13 @@
 {
   "name": "sandbox-brower",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A nifty javascript sandbox for browser",
   "main": "dist/sandbox.js",
+  "homepage": "https://github.com/zengyong2013/sandbox-brower#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zengyong2013/sandbox-brower.git"
+  },
   "scripts": {
     "build": "tsc",
     "build:watch": "tsc --watch",
